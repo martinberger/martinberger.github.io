@@ -1,21 +1,11 @@
-* When linking via https://martinberger.github.io/ to a google domain, use
+Name: In 2003 (IIRC) I chose xilagliu, because I wanted to avoid
+clashes with existing names.  In Feb 2017 I noticed Xiangliu, the Nine
+Headed Snake, the wicked nine-headed demon.
 
-  <a href="https://www.google.co.uk" target="_blank">Google.co.uk https</a>
+https://en.wikipedia.org/wiki/Xiangliu
 
-and not a bare
+Edit-Distance( Xilagliu, Xiangliu ) = 2
 
-  <a href="https://www.google.co.uk">Google.co.uk https</a>
 
-I don't understand why. See 
 
-   https://stackoverflow.com/questions/8700636/how-to-show-google-com-in-an-iframe/8700754#8700754
 
-for a possible explanation.
-
-* Name: I chose xilagliu, because I wanted to avoid clashes with existing names.
-In Feb 2017 I noticed Xiangliu, the Nine Headed Snake, the wicked
-nine-headed demon.  
-
-* TODO 
-** TODO Get the fave-icon working.
-** TODO Move to other provider
